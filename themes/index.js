@@ -416,6 +416,13 @@ export const themes = {
     border_color: "85A4C0",
     bg_color: "030314",
   },
+  deepocean: {
+    title_color: "238E94",
+    text_color: "D6E7FF",
+    icon_color: "D0E2F2",
+    border_color: "44158C",
+    bg_color: "162059",
+  },
 };
 
 export default themes;
